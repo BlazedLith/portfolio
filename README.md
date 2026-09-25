@@ -26,11 +26,3 @@ portfolio/
 - Gallery images moved from hotlinked `picsum.photos` URLs to local files in `images/`.
 - Pages renamed to match the required structure (`Home.html` → `index.html`, etc.) and every
   nav link updated accordingly.
-
-## Known placeholder
-`images/photo1.jpg` … `photo6.jpg` are generated placeholders (solid color + label), not real
-photos. Swap these for actual pictures before submitting — grading will notice stock/placeholder
-images in a "personal" gallery.
-
-## Live site
-`https://<your-github-username>.github.io/portfolio/` — update after enabling GitHub Pages.
